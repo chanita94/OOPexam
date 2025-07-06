@@ -10,7 +10,7 @@ namespace CarRentalSystem.IO
     //this class saves data to the csv file
     public class FileWriter 
     {
-        private string filePath = @"C:\Users\Chani\OneDrive\Desktop\CAR RENTAL SYSTEM\CarRentalSystem1\Cars.csv";
+        private string filePath = @"C:\Users\Chani\OneDrive\Desktop\CAR RENTAL SYSTEM\CarRentalSystem1\OOPexam\CarRentalSystem\Cars.csv";
 
         public FileWriter(string filePath)
         {

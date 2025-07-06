@@ -9,7 +9,7 @@ namespace CarRentalSystem.Models
     public class FileReader
     {
         //Path to the CSV file with car data
-        private string filePath = @"C:\Users\Chani\OneDrive\Desktop\CAR RENTAL SYSTEM\CarRentalSystem1\Cars.csv";
+        private string filePath = @"C:\Users\Chani\OneDrive\Desktop\CAR RENTAL SYSTEM\CarRentalSystem1\OOPexam\CarRentalSystem\Cars.csv";
 
         //Constructor sets the file path
         public FileReader(string filePath)
