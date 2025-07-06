@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chani\\OneDrive\\Desktop\\CAR RENTAL SYSTEM\\CarRentalSystem1\\CarRentalSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18C46EB7-F645-4CB5-9FE0-2EA28D7F4A5D}|CarRentalSystem.csproj|c:\\users\\chani\\onedrive\\desktop\\car rental system\\carrentalsystem1\\carrentalsystem\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C46EB7-F645-4CB5-9FE0-2EA28D7F4A5D}|CarRentalSystem.csproj|solutionrelative:models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C46EB7-F645-4CB5-9FE0-2EA28D7F4A5D}|CarRentalSystem.csproj|c:\\users\\chani\\onedrive\\desktop\\car rental system\\carrentalsystem1\\carrentalsystem\\io\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C46EB7-F645-4CB5-9FE0-2EA28D7F4A5D}|CarRentalSystem.csproj|solutionrelative:io\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C46EB7-F645-4CB5-9FE0-2EA28D7F4A5D}|CarRentalSystem.csproj|c:\\users\\chani\\onedrive\\desktop\\car rental system\\carrentalsystem1\\carrentalsystem\\io\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C46EB7-F645-4CB5-9FE0-2EA28D7F4A5D}|CarRentalSystem.csproj|solutionrelative:io\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C46EB7-F645-4CB5-9FE0-2EA28D7F4A5D}|CarRentalSystem.csproj|c:\\users\\chani\\onedrive\\desktop\\car rental system\\carrentalsystem1\\carrentalsystem\\services\\listcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C46EB7-F645-4CB5-9FE0-2EA28D7F4A5D}|CarRentalSystem.csproj|solutionrelative:services\\listcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C46EB7-F645-4CB5-9FE0-2EA28D7F4A5D}|CarRentalSystem.csproj|c:\\users\\chani\\onedrive\\desktop\\car rental system\\carrentalsystem1\\carrentalsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C46EB7-F645-4CB5-9FE0-2EA28D7F4A5D}|CarRentalSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C46EB7-F645-4CB5-9FE0-2EA28D7F4A5D}|CarRentalSystem.csproj|c:\\users\\chani\\onedrive\\desktop\\car rental system\\carrentalsystem1\\carrentalsystem\\services\\carrentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C46EB7-F645-4CB5-9FE0-2EA28D7F4A5D}|CarRentalSystem.csproj|solutionrelative:services\\carrentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C46EB7-F645-4CB5-9FE0-2EA28D7F4A5D}|CarRentalSystem.csproj|c:\\users\\chani\\onedrive\\desktop\\car rental system\\carrentalsystem1\\carrentalsystem\\services\\searchcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C46EB7-F645-4CB5-9FE0-2EA28D7F4A5D}|CarRentalSystem.csproj|solutionrelative:services\\searchcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C46EB7-F645-4CB5-9FE0-2EA28D7F4A5D}|CarRentalSystem.csproj|c:\\users\\chani\\onedrive\\desktop\\car rental system\\carrentalsystem1\\carrentalsystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C46EB7-F645-4CB5-9FE0-2EA28D7F4A5D}|CarRentalSystem.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C46EB7-F645-4CB5-9FE0-2EA28D7F4A5D}|CarRentalSystem.csproj|c:\\users\\chani\\onedrive\\desktop\\car rental system\\carrentalsystem1\\carrentalsystem\\cars.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{18C46EB7-F645-4CB5-9FE0-2EA28D7F4A5D}|CarRentalSystem.csproj|solutionrelative:cars.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SearchCar.cs",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\CAR RENTAL SYSTEM\\CarRentalSystem1\\CarRentalSystem\\Services\\SearchCar.cs",
+              "RelativeDocumentMoniker": "Services\\SearchCar.cs",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\CAR RENTAL SYSTEM\\CarRentalSystem1\\CarRentalSystem\\Services\\SearchCar.cs",
+              "RelativeToolTip": "Services\\SearchCar.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:15:55.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListCars.cs",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\CAR RENTAL SYSTEM\\CarRentalSystem1\\CarRentalSystem\\Services\\ListCars.cs",
+              "RelativeDocumentMoniker": "Services\\ListCars.cs",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\CAR RENTAL SYSTEM\\CarRentalSystem1\\CarRentalSystem\\Services\\ListCars.cs",
+              "RelativeToolTip": "Services\\ListCars.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:15:38.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarRentalService.cs",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\CAR RENTAL SYSTEM\\CarRentalSystem1\\CarRentalSystem\\Services\\CarRentalService.cs",
+              "RelativeDocumentMoniker": "Services\\CarRentalService.cs",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\CAR RENTAL SYSTEM\\CarRentalSystem1\\CarRentalSystem\\Services\\CarRentalService.cs",
+              "RelativeToolTip": "Services\\CarRentalService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAwDwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:15:25.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\CAR RENTAL SYSTEM\\CarRentalSystem1\\CarRentalSystem\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\CAR RENTAL SYSTEM\\CarRentalSystem1\\CarRentalSystem\\Models\\Car.cs",
+              "RelativeToolTip": "Models\\Car.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:12:44.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\CAR RENTAL SYSTEM\\CarRentalSystem1\\CarRentalSystem\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\CAR RENTAL SYSTEM\\CarRentalSystem1\\CarRentalSystem\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:12:40.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileWriter.cs",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\CAR RENTAL SYSTEM\\CarRentalSystem1\\CarRentalSystem\\IO\\FileWriter.cs",
+              "RelativeDocumentMoniker": "IO\\FileWriter.cs",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\CAR RENTAL SYSTEM\\CarRentalSystem1\\CarRentalSystem\\IO\\FileWriter.cs",
+              "RelativeToolTip": "IO\\FileWriter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:10:40.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileReader.cs",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\CAR RENTAL SYSTEM\\CarRentalSystem1\\CarRentalSystem\\IO\\FileReader.cs",
+              "RelativeDocumentMoniker": "IO\\FileReader.cs",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\CAR RENTAL SYSTEM\\CarRentalSystem1\\CarRentalSystem\\IO\\FileReader.cs",
+              "RelativeToolTip": "IO\\FileReader.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwCsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:09:54.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\CAR RENTAL SYSTEM\\CarRentalSystem1\\CarRentalSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\CAR RENTAL SYSTEM\\CarRentalSystem1\\CarRentalSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwCcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:05:46.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cars.csv",
+              "DocumentMoniker": "C:\\Users\\Chani\\OneDrive\\Desktop\\CAR RENTAL SYSTEM\\CarRentalSystem1\\CarRentalSystem\\Cars.csv",
+              "RelativeDocumentMoniker": "Cars.csv",
+              "ToolTip": "C:\\Users\\Chani\\OneDrive\\Desktop\\CAR RENTAL SYSTEM\\CarRentalSystem1\\CarRentalSystem\\Cars.csv",
+              "RelativeToolTip": "Cars.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-07-06T12:18:56.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
