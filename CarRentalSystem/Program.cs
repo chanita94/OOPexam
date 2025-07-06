@@ -34,20 +34,25 @@ namespace CarRentalSystem
                     switch (cmd)
                     {
                         case "add":
-                            Console.WriteLine("Enter: Id,Make,Model,Year,Type,Availability, CustomerName,CustomerID");
+                            Console.WriteLine("Enter: Id,Make,Model,Year,Type,Availability, CustomerName,CustomerID (DON'T FORGET THE COMMAS AND FOLLOW THE ORDER)");
                             var data = Console.ReadLine().Split(',');
                             service.AddCar(new Car(
                                 int.Parse(data[0]), data[1], data[2],
                                 int.Parse(data[3]), data[4], data[5]
                             ));
+                            Console.WriteLine("The car is added");
                             break;
 
                         case "edit":
+                            Console.WriteLine("Write the car id");
                             service.EditCar(int.Parse(arg));
+                            Console.WriteLine("Car is edited");
                             break;
 
                         case "remove":
+                            Console.WriteLine("Write the car id");
                             service.RemoveCar(int.Parse(arg));
+                            Console.WriteLine("Car is set as removed");
                             break;
 
                         case "rent":
@@ -61,7 +66,9 @@ namespace CarRentalSystem
                             break;
 
                         case "return":
+                            Console.WriteLine("Write the car id");
                             service.ReturnCar(int.Parse(arg));
+                            Console.WriteLine("The car is returned");
                             break;
 
                         case "list":
@@ -69,6 +76,7 @@ namespace CarRentalSystem
                             break;
 
                         case "search":
+                            Console.WriteLine("Write the car model");
                             search.SearchCars(arg);
                             break;
 
